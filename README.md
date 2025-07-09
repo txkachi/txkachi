@@ -2,7 +2,7 @@
 
 I am a **Database Administrator**, I am expanding my knowledge in both back-end and front-end development. My objective is to strengthen my development skills and explore new technologies. I develop and build.
 - I am currently learning:
-  - Angular
+  - Rust
 - Inquire as needed. I am capable of assisting.
 - Beyond technology, I engage in various pursuits.
 - Contact: <a href="hi@takachi.rocks">hi@takachi.rocks</a>
