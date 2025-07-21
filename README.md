@@ -56,6 +56,12 @@ I am a **Database Administrator**, I am expanding my knowledge in both back-end 
 <br>
 <br>
 
+***Support***
+
+&nbsp;
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://www.buymeacoffee.com/takachi)
+[![Gravatar](https://img.shields.io/badge/Gravatar-Visit-blue?logo=gravatar&logoColor=white&style=for-the-badge)](https://gravatar.com/yahyabey2401)
+
 ***Github Stats***
 <br>
 <p align="center">
