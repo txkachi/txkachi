@@ -5,16 +5,6 @@ I am a **Database Administrator**, I am expanding my knowledge in both back-end 
   - Rust
 - Inquire as needed. I am capable of assisting.
 - Beyond technology, I engage in various pursuits.
-- Contact: <a href="hi@takachi.rocks">hi@takachi.rocks</a>
-<br>
-
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=txkachi&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-</div>     
-
-<br>
 
 ***Skills***
 
@@ -22,6 +12,7 @@ I am a **Database Administrator**, I am expanding my knowledge in both back-end 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
 
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -50,7 +41,7 @@ I am a **Database Administrator**, I am expanding my knowledge in both back-end 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
 ###### Development Environments:
-![Static Badge](https://img.shields.io/badge/-Cursor-black?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
 <br>
@@ -72,7 +63,7 @@ I am a **Database Administrator**, I am expanding my knowledge in both back-end 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=txkachi&theme=dark&hide_border=false" alt="txkachi streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=txkachi&theme=dark&hide_border=false&langs_count=10"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=txkachi&theme=dark&hide_border=false&langs_count=5"/>
 </td>
 </tr>
 </table>
