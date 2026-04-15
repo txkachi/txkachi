@@ -5,7 +5,7 @@ I am a **Database Administrator**, I am expanding my knowledge in both back-end 
   - Rust
 - Inquire as needed. I am capable of assisting.
 - Beyond technology, I engage in various pursuits.
-
+[![Discord Card](https://lanyard.vlodia.com/api/v1/users/281472410576879616/card)](https://discord.com/users/281472410576879616)
 ***Skills***
 
 ###### Languages & Syntax:
